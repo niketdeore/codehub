@@ -4,4 +4,4 @@ Welcome to Codehub
 
 Java 
 SQL
-Angular
+Angular Js
