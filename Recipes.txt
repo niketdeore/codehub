@@ -6,6 +6,7 @@ Java
 SQL
 Angular Js
 
-
+Java 8
+Java 11
 
 Thank you
